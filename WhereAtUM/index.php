@@ -11,18 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
-        
-<<<<<<< HEAD
-        //Eu mesquita aqui
-        
-        //ivo alteração branch AQUI
-=======
-        // Teste mesquita togfdgdfgdfgp jtyjytuyutyuty
-        
-        
-        //Segundo teste.
->>>>>>> origin/Ivo
+
         ?>
     </body>
 </html>
